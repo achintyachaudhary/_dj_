@@ -1,4 +1,3 @@
 django
 gunicorn
-coverage
-python-coveralls
+coveralls
