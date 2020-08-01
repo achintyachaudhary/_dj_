@@ -1,0 +1,1 @@
+web: gunicorn _dj_.wsgi
