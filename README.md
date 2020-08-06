@@ -1,4 +1,4 @@
-**Django project with CI/CD**
+**Django project with CI/CD enable and used heroku**
 
 ![alt text](https://img.shields.io/website?url=https%3A%2F%2Fdjdock-prod.herokuapp.com%2F)
 ![alt text](https://travis-ci.org/achintyachaudhary/_dj_.svg?branch=master)
